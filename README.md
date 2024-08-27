@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Haroon Khan!](https://github.com/haroonkhan02/)
+## Hi there<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm [Haroon Khan!](https://github.com/haroonkhan02/)
 
 I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, Backend Development, DevOps and statistics 🔥. I am passionate about learning new topics in data science, visualizing data, and conducting research, I enjoy sharing valuable insights and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
