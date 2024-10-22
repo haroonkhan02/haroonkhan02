@@ -1,6 +1,12 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
+<h1 align="center"><b>Hi , I'm Haroon Khan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Hi there<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm [Haroon Khan!](https://github.com/haroonkhan02/)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=100&duration=2000&pause=1000&color=1B81C9&background=0B032500&center=true&vCenter=true&width=435&lines=Active+Learner;Data+Science;DevOps;Responsible+AI+advocate;Machine+Learning;Backedn+Development;" alt="Typing SVG" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About me</b>
 
 I am a graduate 🎓 with a strong background in computer science and experience in exploratory data analysis, machine learning, computer vision, Backend Development, DevOps and statistics 🔥. I am passionate about learning new topics in data science, visualizing data, and conducting research, I enjoy sharing valuable insights and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬
 
