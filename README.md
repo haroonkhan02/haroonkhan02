@@ -46,9 +46,6 @@ I am a graduate 🎓 with a strong background in computer science and experience
     <a href="https://nodejs.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/></code> 
     </a> 
-    <a href="" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/></code> 
-    </a> 
     <a href="https://www.mongodb.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
     </a> 
