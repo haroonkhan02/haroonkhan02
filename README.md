@@ -8,7 +8,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About me</b>
 
-I am a graduate 🎓 with a strong background in computer science and experience in exploratory data analysis, machine learning, computer vision, Backend Development, DevOps and statistics 🔥. I am passionate about learning new topics in data science, visualizing data, and conducting research, I enjoy sharing valuable insights and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬
+I am a graduate with a strong background in computer science and experience in exploratory data analysis, machine learning, computer vision, Backend Development, DevOps and statistics. I am passionate about learning new topics in data science, visualizing data, and conducting research, I enjoy sharing valuable insights and making an impact that helps others learn!
 
 <p><a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:haroonx02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
@@ -36,13 +36,7 @@ I am a graduate 🎓 with a strong background in computer science and experience
     </a> 
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
-    </a> 
+    </a>  
     <a href="https://nodejs.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/></code> 
     </a> 
